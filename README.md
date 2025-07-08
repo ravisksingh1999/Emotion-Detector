@@ -13,7 +13,7 @@ A web app that uses face-api.js to detect human emotions in real-time through yo
 
 ## 📸 Demo
 
-![Screenshot](./Screenshot/screenshot.png)
+![Screenshot](./Screenshot/neutral.png)
 
 ## 🛠️ Tech Stack
 
