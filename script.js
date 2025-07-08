@@ -93,6 +93,6 @@ video.addEventListener('play', () => {
       ctx.font = "20px Arial";
       ctx.fillText(label, x + width / 2, y + height / 2 + 30);     // Label
     });
-  }, 100);
+  }, 50);
 
 });
