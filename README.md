@@ -37,10 +37,6 @@ This project runs completely in-browser, no backend required.
 📄 License
 This project is for learning purposes.
 
-yaml
-Copy
-Edit
-
 ---
 
 Let me know if you want to add anything else like deployment link or credits!
