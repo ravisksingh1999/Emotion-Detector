@@ -15,6 +15,9 @@ A web app that uses face-api.js to detect human emotions in real-time through yo
 
 ![Screenshot](./Screenshot/neutral.png)
 
+## **Live Demo:**  
+[Click to try it now!](https://ravisksingh1999.github.io/Emotion-Detector/)
+
 ## 🛠️ Tech Stack
 
 - HTML, CSS, JavaScript
